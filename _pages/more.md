@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: more
+permalink: /more/
 description: More about me, collaborators, and etc.        
 nav: true
 ---
