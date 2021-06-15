@@ -4,7 +4,7 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+p, h1, h2, h3, h4, h5, h6, em, div, span {
   color: var(--global-text-color);
 }
 
@@ -14,7 +14,6 @@ article div {
 
 a, table.table a {
   color: var(--global-theme-color);
-  background-color: rgba(77, 210, 255, 0.5);
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
