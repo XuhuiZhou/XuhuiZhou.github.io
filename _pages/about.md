@@ -21,5 +21,4 @@ I am a first-year PhD student in the [**School of Interactive Computing**](https
 Specifically, I focus on how to enable NLP to better navigate social contexts. Nowadays, NLP models are strong in terms of benchmark performance.
 However, they produce hatespeech, contain social biases, behave undesiredly, and etc., which hurt, divide, and disappoint people.
 
-**Previously**, I interned at [**Apple Machine Intelligence**](https://machinelearning.apple.com/) . I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). I got my bachelor 
-degree in Statistics at Nanjing University (NJU).
+**Previously**, I interned at [**Apple Machine Intelligence**](https://machinelearning.apple.com/) . I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). I got my bachelor degree in Statistics at Nanjing University (NJU).
