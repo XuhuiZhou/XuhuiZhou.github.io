@@ -7,10 +7,6 @@ description: <a href="https://www.gatech.edu/"><strong>CS PhD &#183; Georgia Ins
 profile:
   align: right
   image: xuhuizhou.jpg
-  address: >
-    <p>CODA 1124S</p>
-    <p>756 W Peachtree St NW </p>
-    <p>Atlanta, GA 30308</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
