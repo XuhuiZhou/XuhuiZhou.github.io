@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.cc.gatech.edu/~dyang888/group.html"><strong>CS PhD &#183; SALT &#183; Georgia Institute of Technology</strong></a>
+description: <a href="https://www.gatech.edu/"><strong>CS PhD &#183; Georgia Institute of Technology</strong></a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first-year PhD student in the [**School of Interactive Computing**](https://www.ic.gatech.edu/) at Georgia Tech:bee:, advised by [**Diyi Yang**](https://www.cc.gatech.edu/~dyang888/index.html). I am interested in socially intelligent human language technology.  
+I am a first-year PhD student in the [**School of Interactive Computing**](https://www.ic.gatech.edu/) at Georgia Tech:bee:. I am interested in socially intelligent human language technology.  
 
 Specifically, I focus on how to enable NLP to better navigate social contexts. Nowadays, NLP models are strong in terms of benchmark performance.
 However, they produce hatespeech, contain social biases, behave undesiredly, and etc., which hurt, divide, and disappoint people.
