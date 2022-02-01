@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.gatech.edu/"><strong>CS PhD &#183; Georgia Institute of Technology</strong></a>
+subtitle: <a href='#'>georgia institute of technology</a>. Atlanta, US.
 
 profile:
   align: right
