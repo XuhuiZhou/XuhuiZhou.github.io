@@ -57,7 +57,12 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://www.compphys.de/" target="_blank">★</a>
 <a href="https://julianstreyczek.github.io" target="_blank">★</a>
 <a href="https://sdaza.com" target="_blank">★</a>
-   
+<a href="https://niweera.gq" target="_blank">★</a>
+<a href="https://www.alihkw.com" target="_blank">★</a>
+<a href="https://amirpourmand.ir" target="_blank">★</a>
+<a href="https://scottleechua.github.io" target="_blank">★</a>
+<a href="https://sk1y101.github.io" target="_blank">★</a>
+
 </td>
 </tr>
 <tr>
@@ -68,6 +73,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>
 <a href="https://decisionlab.ucsf.edu/" target="_blank">★</a>
 <a href="https://programming-group.com/" target="_blank">★</a>
+<a href="https://sailing-lab.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -89,6 +95,11 @@ Neural Compression (ICLR: <a href="https://neuralcompression.github.io/" target=
 </td>
 </tr>
 </table>
+
+
+## Best practices
+
+[![Google PageSpeeg](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/pagespeed.svg)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&tab=desktop)
 
 
 ## Getting started
@@ -233,9 +244,9 @@ If you have a different question, please ask using [Discussions](https://github.
     But after deploying, it is not displayed correctly (CSS and JS is not loaded properly).
     How do I fix that? <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-   If you are deploying a personal or organization website to GitHub Pages, leave both fields blank.
-   If you are deploying a project page to GitHub Pages, leave `url` blank and set `baseurl: /<your-project-name>/`.
-   Generally, if you are deploying your webpage to `your-domain.com/your-project/`, you must set `url: your-domain.com` and `baseurl: /your-project/`.
+   Set `url` to `https://<your-github-username>.github.io` or to `https://<your.custom.domain>` if you are using a custom domain.
+   If you are deploying a personal or organization website, leave `baseurl` blank.
+   If you are deploying a project page, set `baseurl: /<your-project-name>/`.
 
 4. **Q:** Atom feed doesn't work. Why?
    <br>
@@ -330,7 +341,7 @@ Easily create beautiful grids within your blog posts and project pages:
 
 <p align="center">
   <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
+    <img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/photos-screenshot.png" width="75%">
   </a>
 </p>
 
