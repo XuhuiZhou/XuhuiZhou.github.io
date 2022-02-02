@@ -89,6 +89,7 @@ if [ `git branch | grep $DEPLOY_BRANCH` ]
 then
   git branch -D $DEPLOY_BRANCH
 fi
+echo "good"
 git checkout -b $DEPLOY_BRANCH
 
 # Build site
