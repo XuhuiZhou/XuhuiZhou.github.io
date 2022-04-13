@@ -12,7 +12,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a Computer Science PhD student interested in socially intelligent human language technology.  
+I am an incoming PhD student at the [**Language Technologies Institute at CMU**](https://www.lti.cs.cmu.edu/) interested in socially intelligent human language technology.  
 
 Specifically, I focus on how to enable NLP to better navigate social contexts. Nowadays, NLP models are strong in terms of benchmark performance.
 However, they produce hatespeech, contain social biases, behave undesiredly, and etc., which hurt, divide, and disappoint people.
