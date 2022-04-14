@@ -1,0 +1,15 @@
+<script>
+    var clickDiv = document.getElementsByClassName("box");
+    var svgLogo = document.getElementsByClassName("svg_logo")
+svgLogo[0].addEventListener("click", function(){
+    for (click of clickDiv){
+    if (click.style.animationPlayState == "" ||
+        click.style.animationPlayState == "running"
+    ) {
+click.style.animationPlayState = "paused";
+    }else{
+click.style.animationPlayState = "running"; // assuming you want to toggle
+    }
+}
+});
+</script>

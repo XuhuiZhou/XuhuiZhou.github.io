@@ -43,6 +43,7 @@ body.sticky-bottom-footer {
 .box {
   opacity:0;
   animation: wavey 5s ease alternate infinite;
+  animation-play-state: running;
   &.wave2 {
     animation-delay: 0.1s;
   }
