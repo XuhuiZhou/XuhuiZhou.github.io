@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_logo
 title: more
 permalink: /more/
 description: More about me, collaborators, and etc.        
