@@ -34,10 +34,16 @@ body.sticky-bottom-footer {
 }
 
 .logo_pic {
+  max-width: 100%;
   width: 25%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+// Make the svg_log disapear if the screen is not wide enough
+@media screen and (max-width: 1200px) {
+  .svg_logo {display:none;}
 }
 
 .box {
