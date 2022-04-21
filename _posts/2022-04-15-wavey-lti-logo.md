@@ -80,7 +80,40 @@ There is little technical difficulty in this process and it's more about explori
 Yayyyyy! :star2:
 
 ### <i class="far fa-object-group"></i> Mix the animation with your logo
-Here the [SVG Editor]() comes in handy. With the visualizing mode of the editor, you can resize the logo or the animation to make them fit together. I also change the color of the logo to pure white to match the style of the animation.
+Here the [SVG Editor]() comes in handy. With the visualizing mode of the editor, you can resize the logo or the animation to make them fit together. I also change the color of the logo to pure white to match the style of the animation. For `Jekyll` users, you can add the animation `css` file to `\_sass\_layout.scss`.
+
+## Technical improvements
+### <i class="fas fa-mouse"></i> Make the logo interactive
+I also want to let the visitors play with the logo themselves. The following code enables the visitor stop the animation by clicking it.
+
+```js
+<script>
+    var clickDiv = document.getElementsByClassName("box");
+    var svgLogo = document.getElementsByClassName("svg_logo")
+svgLogo[0].addEventListener("click", function(){
+    for (click of clickDiv){
+    if (click.style.animationPlayState == "" ||
+        click.style.animationPlayState == "running"
+    ) {
+click.style.animationPlayState = "paused";
+    }else{
+click.style.animationPlayState = "running"; // assuming you want to toggle
+    }
+    }
+  })
+</script>
+```
+For `Jekyll` users, you can add this script to `\_includes\scripts\custom.html`.
+
+### <i class="fas fa-arrows-alt-h"></i> Make the logo disappear if the screen is not wide enough
+The logo could look bad if the screen is not wide enough.
+Here I am being lazy () choosing to let it disapear with the following code added to `_sass/_layouts.scss`:
+
+```css
+@media screen and (max-width: 1200px) {
+  .svg_logo {display:none;}
+}
+```
 
 ## Conclusion
 Now it looks like it is not so difficult to do that haha!
