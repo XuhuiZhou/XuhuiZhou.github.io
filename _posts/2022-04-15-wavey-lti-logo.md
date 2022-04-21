@@ -72,7 +72,7 @@ With the *Curvature* tool, I can draw the logo with the `.jpg` file as the templ
 * use the double click to make straight lines there (Gosh, it took so loooooog to figure that out. :cry:)
 * For the color, you can simply use the *Eyedropper tool* in [Ai](). 
 
-### <i class="fas fa-file-code"></i> Finding the CSS Animation you like
+### <i class="fas fa-file-code"></i> Find the CSS Animation you like
 Now it comes the fun part!! 
 With the vectorized image in hand, you can almost do any manipulation you want.
 But first you need to find a suitable one.
@@ -107,7 +107,7 @@ For `Jekyll` users, you can add this script to `\_includes\scripts\custom.html`.
 
 ### <i class="fas fa-arrows-alt-h"></i> Make the logo disappear if the screen is not wide enough
 The logo could look bad if the screen is not wide enough.
-Here I am being lazy () choosing to let it disapear with the following code added to `_sass/_layouts.scss`:
+Here I am being lazy choosing to let it disapear with the following code added to `_sass/_layouts.scss`:
 
 ```css
 @media screen and (max-width: 1200px) {
