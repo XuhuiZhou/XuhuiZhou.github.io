@@ -46,9 +46,9 @@ Besides, I am such a fan of the **LTI** logo, thus I decide to play around with 
 ## Background
 I barely have any experience in graphic design, which I figure out most of the steps below via YouTube videos <i class="fab fa-youtube"></i> and random websites <i class="fad fa-browser"></i> (Online learning :clap:). I would love to hear from you if you have better ways of doing this :eyes:
 
-
+<hr>
 ## Step-by-step logo making process
-### <i class="fas fa-tools"></i> Tools that I use 
+##### <i class="fas fa-tools"></i> Tools that I use 
 * [Adobe Illustrator (Ai)](https://www.adobe.com/products/illustrator.html): This is the tool for graphic design, which helps turn a `.jpg` version of the LTI logo into 
 a `.svg`. One can probably use Affinity Design as well since Adobe Illustrator is kind of pricey.
 * [SVG Editor](https://marketplace.visualstudio.com/items?itemName=henoc.svgeditor): This is a VS Code extension, which allows you to perform some simple operations to your SVG in 
@@ -57,7 +57,7 @@ a coding level.
 I really like https://animate.style/, or simply searching `CSS animations examples` would yield a bunch of 
 animations, which can serve as inspirations.
 
-### <i class="fas fa-vector-square"></i> Vectorize the LTI logo
+##### <i class="fas fa-vector-square"></i> Vectorize the LTI logo
 This is the hardest part of the whole process since there is not a publicly available SVG version of the 
 LTI logo (as far as the first page of Google search knows). Therefore, I need to make the two wifi-like
 waves match perfectly myself. It is a winding process of figuring out the best approach to doing this. I have tried:
@@ -72,18 +72,20 @@ With the *Curvature* tool, I can draw the logo with the `.jpg` file as the templ
 * use the double click to make straight lines there (Gosh, it took so loooooog to figure that out. :cry:)
 * For the color, you can simply use the *Eyedropper tool* in [Ai](). 
 
-### <i class="fas fa-file-code"></i> Find the CSS Animation you like
+##### <i class="fas fa-file-code"></i> Find the CSS animation you like
 Now it comes the fun part!! 
 With the vectorized image in hand, you can almost do any manipulation you want.
 But first you need to find a suitable one.
 There is little technical difficulty in this process and it's more about exploring and appreciating. 
 Yayyyyy! :star2:
 
-### <i class="far fa-object-group"></i> Mix the animation with your logo
+##### <i class="far fa-object-group"></i> Mix the animation with your logo
 Here the [SVG Editor]() comes in handy. With the visualizing mode of the editor, you can resize the logo or the animation to make them fit together. I also change the color of the logo to pure white to match the style of the animation. For `Jekyll` users, you can add the animation `css` file to `\_sass\_layout.scss`.
 
+<hr>
+
 ## Technical improvements
-### <i class="fas fa-mouse"></i> Make the logo interactive
+##### <i class="fas fa-mouse"></i> Make the logo interactive
 I also want to let the visitors play with the logo themselves. The following code enables the visitor stop the animation by clicking it.
 
 ```js
@@ -105,7 +107,7 @@ click.style.animationPlayState = "running"; // assuming you want to toggle
 ```
 For `Jekyll` users, you can add this script to `\_includes\scripts\custom.html`.
 
-### <i class="fas fa-arrows-alt-h"></i> Make the logo disappear if the screen is not wide enough
+##### <i class="fas fa-arrows-alt-h"></i> Make the logo disappear if the screen is not wide enough
 The logo could look bad if the screen is not wide enough.
 Here I am being lazy choosing to let it disapear with the following code added to `_sass/_layouts.scss`:
 
@@ -114,7 +116,7 @@ Here I am being lazy choosing to let it disapear with the following code added t
   .svg_logo {display:none;}
 }
 ```
-
+<hr>
 ## Conclusion
 Now it looks like it is not so difficult to do that haha!
 I encourage you to get your hands dirty and looking forward to seeing your :art: soon :blush: 
