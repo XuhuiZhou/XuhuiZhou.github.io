@@ -39,25 +39,50 @@ categories: design-posts
       <p>click to freeze the animation :)</p>
 </div>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## Motivation
+I like [al-folio](https://github.com/alshedivat/al-folio) website template. It is simple and elegant. Still, I've always wanted to add some "fun" parts to my website. 
+Besides, I am such a fan of the **LTI** logo, thus I decide to play around with it.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+## Background
+I barely have any experience in graphic design, which I figure out most of the steps below via YouTube videos <i class="fab fa-youtube"></i> and random websites <i class="fad fa-browser"></i> (Online learning :clap:). I would love to hear from you if you have better ways of doing this :eyes:
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-<hr>
+## Step-by-step logo making process
+### <i class="fas fa-tools"></i> Tools that I use 
+* [Adobe Illustrator (Ai)](https://www.adobe.com/products/illustrator.html): This is the tool for graphic design, which helps turn a `.jpg` version of the LTI logo into 
+a `.svg`. One can probably use Affinity Design as well since Adobe Illustrator is kind of pricey.
+* [SVG Editor](https://marketplace.visualstudio.com/items?itemName=henoc.svgeditor): This is a VS Code extension, which allows you to perform some simple operations to your SVG in 
+a coding level. 
+* [CSS Animation](https://blog.hubspot.com/website/css-animation-examples): There exists a bunch of tools/websites that can help you create amazing CSS animations.
+I really like https://animate.style/, or simply searching `CSS animations examples` would yield a bunch of 
+animations, which can serve as inspirations.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+### <i class="fas fa-vector-square"></i> Vectorize the LTI logo
+This is the hardest part of the whole process since there is not a publicly available SVG version of the 
+LTI logo (as far as the first page of Google search knows). Therefore, I need to make the two wifi-like
+waves match perfectly myself. It is a winding process of figuring out the best approach to doing this. I have tried:
+* Directly vectorize the logo from the `.jpg` file with the [Ai]()'s image trace tool. This yields small messy curves.
+* Download a wifi `.svg` online, copy and assemble them to look like the logo. This gives me roughly the LTI
+logo. But due to the different bandwidth, curvature, the resulting image still lacks some original "flavor".
+* It turns out that I would like to reproduce the exact LTI-logo first before doing some creative
+modifications. Then I turn my attention to using the *Curvature* tool in [Ai](), this is the point where I am
+on the right track.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+With the *Curvature* tool, I can draw the logo with the `.jpg` file as the template. Tips: 
+* use the double click to make straight lines there (Gosh, it took so loooooog to figure that out. :cry:)
+* For the color, you can simply use the *Eyedropper tool* in [Ai](). 
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+### <i class="fas fa-file-code"></i> Finding the CSS Animation you like
+Now it comes the fun part!! 
+With the vectorized image in hand, you can almost do any manipulation you want.
+But first you need to find a suitable one.
+There is little technical difficulty in this process and it's more about exploring and appreciating. 
+Yayyyyy! :star2:
+
+### <i class="far fa-object-group"></i> Mix the animation with your logo
+Here the [SVG Editor]() comes in handy. With the visualizing mode of the editor, you can resize the logo or the animation to make them fit together. I also change the color of the logo to pure white to match the style of the animation.
+
+## Conclusion
+Now it looks like it is not so difficult to do that haha!
+I encourage you to get your hands dirty and looking forward to seeing your :art: soon :blush: 
+
