@@ -94,6 +94,89 @@ blockquote {
   }
 }
 
+// // Profile-Qs-listing 
+
+.profile_qs {
+  list-style: none;
+  padding-left:0;
+}
+.profile_qs li::before {
+  content: "📘";
+  display: inline-block;
+  margin-right: 0.2rem;
+}
+.profile_qs li{
+  color: rebeccapurple;
+}
+
+/*** FONTS ***/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:900|Raleway:400,400i,700,700i);
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+/*** VARIABLES ***/
+/* Colors */
+$blue: rgba(1, 65, 160, 0.8);
+$green: #a2ed56;
+$yellow: #fddc32;
+
+/*** EXTEND ***/
+/* box-shadow */
+%boxshadow {
+  box-shadow: 0.25rem 0.25rem 0.6rem rgba(0,0,0,0.05), 0 0.5rem 1.125rem rgba(75,0,0,0.05);
+}
+
+/*** STYLE ***/
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+ol.gradient-list {
+  counter-reset: gradient-counter;
+  list-style: none;
+  margin: 1.75rem 0;
+  padding-left: 1rem;
+  > li {
+    background: white;
+    border-radius: 0 0.5rem 0.5rem 0.5rem;
+    @extend %boxshadow;
+    counter-increment: gradient-counter;
+    margin-top: 1rem;
+    min-height: 3rem;
+    font-family: 'Varela Round', sans-serif;
+    width: 65%;
+    padding: 0.5rem 0.5rem 0.5rem 2rem;
+    position: relative;
+    &::before,
+    &::after {
+      background: $blue;
+      border-radius: 0.5rem 0.5rem 0 0.5rem;
+      content: '';
+      height: 2rem;
+      left: -0.7rem;
+      overflow: hidden;
+      position: absolute;
+      top: 0rem;
+      width: 2rem;
+    }
+    &::before {
+      align-items: flex-end;
+      @extend %boxshadow;
+      content: counter(gradient-counter);
+      color: $white-color;
+      display: flex;
+      font: 900 1.5em/1 'Montserrat';
+      justify-content: flex-end;
+      padding: 0.125em 0.25em;
+      z-index: 1;
+    }
+    + li {
+      margin-top: 1rem;
+    }
+  }
+}
 
 // Navbar customization
 

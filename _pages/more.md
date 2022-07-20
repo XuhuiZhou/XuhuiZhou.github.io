@@ -9,7 +9,7 @@ nav: true
 ### [<i class="fas fa-file-pdf"></i> CV]({% link /assets/pdf/Xuhui_Zhou_s_CV.pdf %})
 I am an incoming PhD student at the [**Language Technologies Institute at CMU**](https://www.lti.cs.cmu.edu/) interested in socially intelligent human language technology. 
 
-I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). At [**Noah's ARK**](http://www.ark.cs.washington.edu/), I worked with [**Maarten Sap**](https://homes.cs.washington.edu/~msap/index.html) and [**Swabha Swayamdipta**](https://swabhs.com/) on social NLP problems; [**Nikolaos 
+**Previously**, I interned at [**Apple Machine Intelligence**](https://machinelearning.apple.com/). Before that, I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). At [**Noah's ARK**](http://www.ark.cs.washington.edu/), I worked with [**Maarten Sap**](https://homes.cs.washington.edu/~msap/index.html) and [**Swabha Swayamdipta**](https://swabhs.com/) on social NLP problems; [**Nikolaos 
 Pappas**](https://nik0spapp.github.io/) on document-level language understanding. Besides, I also worked with [**Shane Steinert-Threlkeld**](https://www.shane.st/) on the interpretability of NLP models and emergent communication.
 
 I got my bachelor degree in Statistics at Nanjing University (NJU), where I did research in NLP with [**Shujian Huang**](http://nlp.nju.edu.cn/huangsj/). Previously, I interned 
