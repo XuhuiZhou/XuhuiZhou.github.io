@@ -1,6 +1,6 @@
 ---
 layout: default_logo
-title: more
+title: CV&More
 permalink: /more/
 description: More about me, collaborators, and etc.        
 nav: true
