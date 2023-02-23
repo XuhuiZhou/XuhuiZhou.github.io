@@ -12,5 +12,41 @@ I am a first-year PhD student at the [**Language Technologies Institute at CMU**
 **Previously**, I interned at [**Apple Machine Intelligence**](https://machinelearning.apple.com/). Before that, I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). At [**Noah's ARK**](http://www.ark.cs.washington.edu/), I worked with [**Maarten Sap**](http://maartensap.com/) and [**Swabha Swayamdipta**](https://swabhs.com/) on social NLP problems; [**Nikolaos 
 Pappas**](https://nik0spapp.github.io/) on document-level language understanding. Besides, I also worked with [**Shane Steinert-Threlkeld**](https://www.shane.st/) on the interpretability of NLP models and emergent communication.
 
-I got my bachelor degree in Statistics at Nanjing University (NJU), where I did research in NLP with [**Shujian Huang**](http://nlp.nju.edu.cn/huangsj/). Previously, I interned 
-at Singapore University of Technology and Design and Westlake University working with [**Yue Zhang**](https://frcchang.github.io/). I spent a wonderful junior year at the University of California, Berkeley (UCB), where I made up my mind researching language technologies.
+<!-- I got my bachelor degree in Statistics at Nanjing University (NJU), where I did research in NLP with [**Shujian Huang**](http://nlp.nju.edu.cn/huangsj/). Previously, I interned 
+at Singapore University of Technology and Design and Westlake University working with [**Yue Zhang**](https://frcchang.github.io/). I spent a wonderful junior year at the University of California, Berkeley (UCB), where I made up my mind researching language technologies. -->
+
+### *Mentoring*
+
+<!-- | Student | | When |
+|---------------------|--|----------------------|
+| [**Leo Zeyu Liu**](https://leo-liuzy.github.io/)       | 2020-2021 |
+| [**Zhilin Wang**](https://scholar.google.com/citations?user=OmMgSQsAAAAJ&hl=en) |  2020-2021  |
+| [**Athiya Deviyani**](https://www.athiyadeviyani.com/)   | 2022 Fall-Now | -->
+##### Mutual learning process & shared responsibility of pushing the boundaries. 
+
+<table class="table table-hover">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Student</th>
+      <th scope="col">When</th>
+      <th scope="col">Now</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://leo-liuzy.github.io/">Leo Zeyu Liu</a></td>
+      <td>2020 Fall - 2022 Fall</td>
+      <td>UW</td>
+    </tr>
+    <tr>
+      <td><a href="https://zhilin123.github.io/">Zhilin Wang</a></td>
+      <td>2021 Spring - 2021 Fall</td>
+      <td>Amazon</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.athiyadeviyani.com/">Athiya Deviyani</a></td>
+      <td>2022 Fall - now</td>
+      <td>CMU LTI</td>
+    </tr>
+  </tbody>
+</table>
