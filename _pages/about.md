@@ -8,7 +8,7 @@ profile:
   align: right
   image: xuhuizhou.jpg
   address: >
-    <p>Gates Hillman Complex</p>
+    <p>GHC 5705</p>
     <p>4902 Forbes Ave</p>
     <p>Pittsburgh, PA 15213</p>
 
