@@ -195,8 +195,12 @@ li::marker {
   content: attr(data-emoji);
   font-size: x-large
 }
-li:hover::marker {
+li.frontq:hover::marker {
   content: "🤯";
+}
+span.frontName:hover::after {
+  content: "旭辉";
+  font-family: 'Zhi Mang Xing', cursive;
 }
 
 // Navbar customization

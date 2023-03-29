@@ -25,7 +25,7 @@ I am a first-year PhD student at the [**Language Technologies Institute at CMU**
      style="vertical-align:middle;" />
 . I am interested in socially intelligent human language technology. More specifically (yet still vague), I am interested in the following Qs:
 <ol class="gradient-list">
-  <li data-emoji="📢">How do we define and build language technology that interacts with humans/society positively?</li>
-  <li data-emoji="🧱">How do we create better (socially) grounded language technology with commonsense?</li>
-  <li data-emoji="💬">How does (social) language intelligence emerge through human language communication?</li>
+  <li class="frontq" data-emoji="📢">How do we define and build language technology that interacts with humans/society positively?</li>
+  <li class="frontq" data-emoji="🧱">How do we create better (socially) grounded language technology with commonsense?</li>
+  <li class="frontq" data-emoji="💬">How does (social) language intelligence emerge through human language communication?</li>
 </ol>
