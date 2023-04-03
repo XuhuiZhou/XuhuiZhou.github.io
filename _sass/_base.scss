@@ -342,11 +342,18 @@ span.frontName:hover::after {
 
 // More&CV
 .m_title {
-  font-weight: 400;
+  font-size: 30px;
   font-family: 'Open Sans', sans-serif;
-  color: var(--global-text-color-light);
-  margin-bottom: 1rem;
-  margin-top: 2rem;
+  transition: 700ms ease;
+  font-variation-settings: "wght" 311;
+  margin-bottom: 0.8rem;
+  color: rgb(156, 203, 241);
+  outline: none;
+  text-align: left;
+}
+.m_title:hover {
+  font-variation-settings: "wght" 582; 
+  letter-spacing: 1px;
 }
 
 // Footer
