@@ -75,5 +75,9 @@ Workshop on Multimodal Content Moderation ([MMCM](https://multimodal-content-mod
 
 [NLP4PI](https://sites.google.com/view/nlp4positiveimpact) at ACL 2021 
 
+##### Red teaming 🚩️
+
+[GPT-4](https://arxiv.org/pdf/2303.08774.pdf) red teaming for [OpenAI](https://openai.com/) 2022
+
 
 
