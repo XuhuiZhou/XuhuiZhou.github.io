@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>georgia institute of technology</a>. Atlanta, US.
 
 profile:
   align: right

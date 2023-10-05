@@ -47,8 +47,33 @@ at Singapore University of Technology and Design and Westlake University working
     </tr>
     <tr>
       <td><a href="https://www.athiyadeviyani.com/">Athiya Deviyani</a></td>
-      <td>2022 Fall - now</td>
-      <td>CMU LTI</td>
+      <td>2022 Fall - 2023 Spring</td>
+      <td>CMU LTI (PhD)</td>
+    </tr>
+     <tr>
+      <td><a href="https://sites.google.com/view/anubha-kabra/home">Anubha Kabra</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/sanketh-rangreji/">Sanketh Rangreji</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://devanshrj.github.io/">Devansh Jain</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/kpriyanshu256/?originalSubdomain=in">Priyanshu Kumar</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/zhe-su-b134b823a/?locale=en_US">Zhe Su</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU MLD (MSML)</td>
     </tr>
   </tbody>
 </table>
@@ -59,6 +84,7 @@ at Singapore University of Technology and Design and Westlake University working
 
 ##### Organizing
 [Theory-of-Mind Workshop](https://tomworkshop.github.io/) at ICML 2023
+[LTI Student Research Symposium](https://lti.cs.cmu.edu/SRS-2023) 2023
 
 ##### Reviewing
 *I review for journals, conferences and workshops:*
@@ -78,6 +104,9 @@ Workshop on Multimodal Content Moderation ([MMCM](https://multimodal-content-mod
 ##### Red teaming 🚩️
 
 [GPT-4](https://arxiv.org/pdf/2303.08774.pdf) red teaming for [OpenAI](https://openai.com/) 2022
+
+##### Committees
+LTI Student Mentoring Program, 2023
 
 
 

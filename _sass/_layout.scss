@@ -41,10 +41,12 @@ body.sticky-bottom-footer {
   margin-right: auto;
 }
 
-// Make the svg_log disapear if the screen is not wide enough
-// @media screen and (max-width: 1200px) {
-//   .svg_logo {display:none;}
-// }
+@media screen and (max-width: 768px) {
+  /* Add styles for large screens here */
+  .profile img {
+    display: none; /* Hide the image on large screens */
+  }
+}
 
 
 .box {

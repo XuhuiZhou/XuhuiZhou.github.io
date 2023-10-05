@@ -178,13 +178,13 @@ ol.gradient-list {
   margin: 1.75rem 0;
   padding-left: 1.2rem;
   > li {
-    background: white;
+    background: global-bg-color; 
     border-radius: 0 0.5rem 0.5rem 0.5rem;
     @extend %boxshadow;
     counter-increment: gradient-counter;
     margin-top: 1rem;
     min-height: 3rem;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     width: 65%;
     padding: 0.5rem 0.5rem 0.5rem 2rem;
@@ -198,6 +198,12 @@ li::marker {
 li.frontq:hover::marker {
   content: "🤯";
 }
+@media (max-width: 768px) { /* Adjust the max-width as needed for your design */
+  ol.gradient-list > li {
+      width: 100%; /* Change the width to 100% for small screens */
+  }
+}
+
 span.frontName:hover::after {
   content: "旭辉";
   font-family: 'Zhi Mang Xing', cursive;
