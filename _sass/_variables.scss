@@ -10,11 +10,13 @@ $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
 $blue-color:          #0076df !default;
 $blue-color-dark:     #00369f !default;
+$sky-blue-dark:      #082f49 !default;
 $cyan-color:          #2698BA !default;
 $light-cyan-color:    lighten($cyan-color, 25%);
 $green-color:         #00ab37 !default;
 $green-color-lime:    #B7D12A !default;
-$green-color-dark:    #009f06 !default;
+$green-color-teal:    #eef2ff !default;
+$green-color-dark:    #042f2e !default;
 $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
 $purple-color:        #B509AC !default;
@@ -29,7 +31,7 @@ $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
 
 $white-color: #ffffff !default;
-$blue-bg-color: rgba(0, 100, 255, 0.13);
+$blue-bg-color: #e0f2fe;
 $black-color: #000000 !default;
 
 

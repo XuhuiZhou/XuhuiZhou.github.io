@@ -162,7 +162,7 @@ $yellow: #fddc32;
 /*** EXTEND ***/
 /* box-shadow */
 %boxshadow {
-  box-shadow: 0.25rem 0.25rem 0.6rem rgba(0,0,0,0.05), 0 0.5rem 1.125rem rgba(75,0,0,0.05);
+  box-shadow: 0.25rem 0.25rem 0.6rem rgba(0,0,0,0.005), 0 0.3rem 0.6rem rgba(75,0,0,0.01);
 }
 
 /*** STYLE ***/
@@ -178,8 +178,8 @@ ol.gradient-list {
   margin: 1.75rem 0;
   padding-left: 1.2rem;
   > li {
-    background: global-bg-color; 
-    border-radius: 0 0.5rem 0.5rem 0.5rem;
+    background: var(--global-box-color); 
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
     @extend %boxshadow;
     counter-increment: gradient-counter;
     margin-top: 1rem;
@@ -187,7 +187,7 @@ ol.gradient-list {
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     width: 65%;
-    padding: 0.5rem 0.5rem 0.5rem 2rem;
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
     position: relative;
   }
 }
