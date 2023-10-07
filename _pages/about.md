@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the [**Language Technologies Institute at CMU**](https://www.lti.cs.cmu.edu/) working with [**Maarten Sap**](http://maartensap.com/) 
+I am a PhD student at the [**Language Technologies Institute at CMU**](https://www.lti.cs.cmu.edu/) fortunately advised by [**Maarten Sap**](http://maartensap.com/) 
 <img src="/assets/img/blob_cheer.png"
      alt="Markdown Monster icon"
      width="3%" height="3%"
