@@ -17,6 +17,7 @@ Pappas**](https://nik0spapp.github.io/) on document-level language understanding
 <!-- I got my bachelor degree in Statistics at Nanjing University (NJU), where I did research in NLP with [**Shujian Huang**](http://nlp.nju.edu.cn/huangsj/). Previously, I interned 
 at Singapore University of Technology and Design and Westlake University working with [**Yue Zhang**](https://frcchang.github.io/). I spent a wonderful junior year at the University of California, Berkeley (UCB), where I made up my mind researching language technologies. -->
 
+
 <h2 class="m_title"> Mentoring </h2>
 
 <!-- | Student | | When |
@@ -38,27 +39,27 @@ at Singapore University of Technology and Design and Westlake University working
     <tr>
       <td><a href="https://leo-liuzy.github.io/">Leo Zeyu Liu</a></td>
       <td>2020 Fall - 2022 Fall</td>
-      <td>UW</td>
+      <td>Ph.D. student in the University of Texas at Austin</td>
     </tr>
     <tr>
       <td><a href="https://zhilin123.github.io/">Zhilin Wang</a></td>
       <td>2021 Spring - 2021 Fall</td>
-      <td>Amazon</td>
+      <td>Senior Applied Scientist, NVIDIA</td>
     </tr>
     <tr>
       <td><a href="https://www.athiyadeviyani.com/">Athiya Deviyani</a></td>
       <td>2022 Fall - 2023 Spring</td>
-      <td>CMU LTI (PhD)</td>
+      <td>PhD student at CMU LTI</td>
     </tr>
      <tr>
       <td><a href="https://sites.google.com/view/anubha-kabra/home">Anubha Kabra</a></td>
-      <td>2023 Fall - now</td>
-      <td>CMU LTI (MIIS)</td>
+      <td>2023 Fall - 2024 Spring</td>
+      <td>Senior Machine Learning Reserach Engineer at Bloomberg</td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/sanketh-rangreji/">Sanketh Rangreji</a></td>
-      <td>2023 Fall - now</td>
-      <td>CMU LTI (MIIS)</td>
+      <td>2023 Fall - 2024 Spring</td>
+      <td>Data Scientist at Walmart</td>
     </tr>
     <tr>
       <td><a href="https://devanshrj.github.io/">Devansh Jain</a></td>

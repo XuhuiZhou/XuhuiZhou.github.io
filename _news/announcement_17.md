@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🗣️ 📢 Gave a talk about [*Towards Socially Aware and Interactional NLP Systems*](https://www.cs.cmu.edu/calendar/174364583) at [CMU Foundation and Language Model Seminar](https://cmuflame.org/index.html)
+🗣️ 📢 Gave a talk about [*Towards Socially Aware and Interactional NLP Systems*](https://www.cs.cmu.edu/calendar/174364583) at [CMU Foundation and Language Model Seminar](https://cmuflame.org/index.html) and [MilaNLP](https://x.com/MilaNLProc/status/1776262604308074726).
