@@ -1,18 +1,16 @@
 ---
 layout: default_logo
-title: CV&More
+title: more
 permalink: /more/
 description: More about me, collaborators, and etc.        
 nav: true
 ---
 <!--I am an  PhD student in the [**School of Interactive Computing**](https://www.ic.gatech.edu/) at Georgia Tech. I am interested in socially intelligent human language technology. -->
-### [<i class="fas fa-file-pdf"></i> CV]({% link /assets/pdf/Xuhui_Zhou_s_CV.pdf %})
+<!-- ### [<i class="fas fa-file-pdf"></i> CV]({% link /assets/pdf/Xuhui_Zhou_s_CV.pdf %}) -->
 
 <h2 class="m_title"> Bio </h2>
-I am a PhD student at the [**Language Technologies Institute at CMU**](https://www.lti.cs.cmu.edu/) interested in socially intelligent human language technology. I am currently working with [**Maarten Sap**](http://maartensap.com/).
-
-**Previously**, I interned at [**Apple Machine Intelligence**](https://machinelearning.apple.com/). Before that, I was a CLMS student at the University of Washington (UW) advised by [**Noah Smith**](https://homes.cs.washington.edu/~nasmith/). At [**Noah's ARK**](http://www.ark.cs.washington.edu/), I worked with [**Maarten Sap**](http://maartensap.com/) and [**Swabha Swayamdipta**](https://swabhs.com/) on social NLP problems; [**Nikolaos 
-Pappas**](https://nik0spapp.github.io/) on document-level language understanding. Besides, I also worked with [**Shane Steinert-Threlkeld**](https://www.shane.st/) on the interpretability of NLP models and emergent communication.
+Xuhui Zhou is a third-year PhD student in Carnegie Mellon University's Language Technologies Department (CMU LTI) advised by Maarten Sap. His research focuses on making NLP systems socially intelligent, aligning them with human social values. He has presented his work at top-tier NLP and AI conferences, receiving spotlights, and runner-up best paper at ICLR 2024, and EmeCom 2022. Additionally, he has been red-teaming for GPT-4. His work has been covered in the press, including The New York Times, Financial Times, and Marktechpost. He previously organized the workshop on Theory of Mind in Communicating Agents at ICML 2023 and he has served as a reviewer for major conferences,
+including NeurIPS, ICLR, ACL, EMNLP, etc.
 
 <!-- I got my bachelor degree in Statistics at Nanjing University (NJU), where I did research in NLP with [**Shujian Huang**](http://nlp.nju.edu.cn/huangsj/). Previously, I interned 
 at Singapore University of Technology and Design and Westlake University working with [**Yue Zhang**](https://frcchang.github.io/). I spent a wonderful junior year at the University of California, Berkeley (UCB), where I made up my mind researching language technologies. -->
@@ -75,6 +73,21 @@ at Singapore University of Technology and Design and Westlake University working
       <td><a href="https://www.linkedin.com/in/zhe-su-b134b823a/?locale=en_US">Zhe Su</a></td>
       <td>2023 Fall - now</td>
       <td>CMU MLD (MSML)</td>
+    </tr>
+    <tr>
+      <td><a href="https://scholar.google.com/citations?user=aNnPnfcAAAAJ&hl=zh-CN">Xianzhe Fan</a></td>
+      <td>2024 Summer - now</td>
+      <td>Tsinghua University (Undergrad)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/wenkai-li-aab4b5272/">Wenkai Li</a></td>
+      <td>2024 Summer - now</td>
+      <td>MIIS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://jiarui-liu.github.io/">Jiarui Liu</a></td>
+      <td>2024 Summer - now</td>
+      <td>MIIS@CMU</td>
     </tr>
   </tbody>
 </table>
