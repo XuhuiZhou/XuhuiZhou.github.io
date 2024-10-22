@@ -198,4 +198,4 @@ Advisor: [Shujian Huang](http://nlp.nju.edu.cn/huangsj/)
     - ICLR 2023, 2024
   - **Workshops**:
     - Workshop on Multimodal Content Moderation (MMCM) at CVPR 2023
-    - NLP
+    - Positive NLP at ACL 2022
