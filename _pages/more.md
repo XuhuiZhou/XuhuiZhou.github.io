@@ -4,6 +4,7 @@ title: more
 permalink: /more/
 description: More about me, collaborators, and etc.        
 nav: true
+nav_order: 1
 ---
 <!--I am an  PhD student in the [**School of Interactive Computing**](https://www.ic.gatech.edu/) at Georgia Tech. I am interested in socially intelligent human language technology. -->
 <!-- ### [<i class="fas fa-file-pdf"></i> CV]({% link /assets/pdf/Xuhui_Zhou_s_CV.pdf %}) -->
