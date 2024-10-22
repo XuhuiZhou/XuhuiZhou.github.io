@@ -22,9 +22,9 @@ I am a PhD student at the [**Language Technologies Institute at CMU**](https://w
      alt="Markdown Monster icon"
      width="3%" height="3%"
      style="vertical-align:middle;" />
-. I am interested in socially intelligent human language technology. More specifically (yet still vague), I am interested in the following Qs:
+. I am interested in [**socially intelligent AI**](https://sotopia.world/awesome-social-agents/). More specifically, I am interested in the following Qs:
 <ol class="gradient-list">
-  <li class="frontq" data-emoji="📢">How do we define and build language technology that interacts with humans/society positively?</li>
-  <li class="frontq" data-emoji="🧱">How do we create better (socially) grounded language technology with commonsense?</li>
-  <li class="frontq" data-emoji="💬">How does (social) language intelligence emerge through human language communication?</li>
+  <li class="frontq" data-emoji="📢">How do we define and build socially intelligent AI systems? e.g., <a href="https://sotopia.world/" style="font-weight:bold; color: #5f3dc4; background-color: #d0bfff; padding: 2px 4px; border-radius: 4px;">Sotopia</a></li>
+  <li class="frontq" data-emoji="🧱">How do we create better (socially) grounded AI systems? e.g., <a href="https://webarena.dev/" style="font-weight:bold; color: #5f3dc4; background-color: #d0bfff; padding: 2px 4px; border-radius: 4px;">WebArena</a></li>
+  <li class="frontq" data-emoji="🛡️">How do we safegaurd AI systems from harmful behaviors? e.g., <a href="https://haicosystem.org/" style="font-weight:bold; color: #5f3dc4; background-color: #d0bfff; padding: 2px 4px; border-radius: 4px;">HAICOSYSTEM</a></li>
 </ol>

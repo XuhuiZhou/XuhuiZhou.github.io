@@ -195,9 +195,6 @@ li::marker {
   content: attr(data-emoji);
   font-size: x-large
 }
-li.frontq:hover::marker {
-  content: "🤯";
-}
 @media (max-width: 768px) { /* Adjust the max-width as needed for your design */
   ol.gradient-list > li {
       width: 100%; /* Change the width to 100% for small screens */
