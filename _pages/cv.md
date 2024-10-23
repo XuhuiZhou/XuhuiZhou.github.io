@@ -180,8 +180,6 @@ Advisor: [Shujian Huang](http://nlp.nju.edu.cn/huangsj/)
 - [Financial Times](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 - [MarkTechPost](https://www.marktechpost.com/2023/07/27/cmu-researchers-introduce-webarena-a-realistic-and-reproducible-web-environment-with-4-real-world-web-apps-for-benchmarking-useful-agents/)
 
-
-
 ---
 
 ## Service

@@ -28,3 +28,4 @@ I am a PhD student at the [**Language Technologies Institute at CMU**](https://w
   <li class="frontq" data-emoji="🧱">How do we create better (socially) grounded AI systems? e.g., <a href="https://webarena.dev/" style="font-weight:bold; color: #5f3dc4">WebArena</a></li>
   <li class="frontq" data-emoji="🛡️">How do we safegaurd AI systems from harmful behaviors? e.g., <a href="https://haicosystem.org/" style="font-weight:bold; color: #5f3dc4">HAICOSYSTEM</a></li>
 </ol>
+<div style="background-color: lightblue; font-weight: bold; border-radius: 15px; padding: 15px; padding-left: 20px; padding-right: 20px; margin-bottom: 15px; display: inline-block;">I’m seeking a summer internship for 2025—feel free to reach out!</div>
