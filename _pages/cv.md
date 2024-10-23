@@ -49,10 +49,10 @@ Advisor: [Shujian Huang](http://nlp.nju.edu.cn/huangsj/)
 ## Industry Experience
 
 **[Allen Institute for Artificial Intelligence](https://allenai.org/)**  
-  Research Intern _(May 2024 - Aug 2024)_
+Research Intern _(May 2024 - Aug 2024)_
 
 **[Machine Intelligence @ Apple](https://machinelearning.apple.com/)**  
-  Research Intern _(Mar 2021 - Sep 2021)_  
+Research Intern _(Mar 2021 - Sep 2021)_ 
 
 ---
 ## Recent Preprints
