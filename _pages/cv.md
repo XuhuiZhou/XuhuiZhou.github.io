@@ -44,6 +44,15 @@ Advisor: [Shujian Huang](http://nlp.nju.edu.cn/huangsj/)
 
 **University of California Berkeley**, Berkeley, CA _(visiting student) (Aug 2017 - May 2018)_
 
+---
+
+## Industry Experience
+
+**[Allen Institute for Artificial Intelligence](https://allenai.org/)**  
+  Research Intern _(May 2024 - Aug 2024)_
+
+**[Machine Intelligence @ Apple](https://machinelearning.apple.com/)**  
+  Research Intern _(Mar 2021 - Sep 2021)_  
 
 ---
 ## Recent Preprints
