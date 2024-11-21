@@ -67,6 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: XuhuiZhou # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: nlpxuhui # your Twitter handle
+blue_sky_username: nlpxuhui.bsky.social # your Blue Sky handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -361,7 +362,7 @@ bootstrap:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 fontawesome:
-  version: "5.15.4"
+  version: "6.7.1"
   integrity: "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
 jquery:
   version: "3.6.0"
