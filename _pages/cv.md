@@ -57,6 +57,12 @@ Research Intern _(Mar 2021 - Sep 2021)_
 ---
 ## Recent Preprints
 (*Equal contribution)
+6. [Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications](https://arxiv.org/abs/2409.16429)   
+   Xianzhe Fan, Qing Xiao, **Xuhui Zhou**, Yuran Su, Zhicong Lu, Maarten Sap, Hong Shen
+
+5. [BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data](https://arxiv.org/abs/2409.16428)  
+   Wenkai Li, Jiarui Liu, Andy Liu, **Xuhui Zhou**, Mona Diab, Maarten Sap
+
 4. [HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions](https://arxiv.org/abs/2409.16427)  
    **Xuhui Zhou**, Hyunwoo Kim<sup>*</sup>, Faeze Brahman<sup>*</sup>, Liwei Jiang, Hao Zhu, Ximing Lu, Frank Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras, Maarten Sap  
    [<span style="color: blue; font-weight: bold; font-style: italic;">Website</span>](https://haicosystem.org/)
@@ -71,6 +77,7 @@ Research Intern _(Mar 2021 - Sep 2021)_
    Jen-tse Huang, Jiaxu Zhou, Tailin Jin, **Xuhui Zhou**, Zixi Chen, Wenxuan Wang, Youliang Yuan, Maarten Sap, Michael R. Lyu  
 
 ## Publications  
+(*Equal contribution)
 19. [Consent in crisis: The rapid decline of the ai data commons](https://arxiv.org/abs/2407.14933)  
    Shayne Longpre, Robert Mahari, Ariel Lee, ..., **Xuhui Zhou**, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland  
    *NeurIPS Datasets and Benchmarks 2024*
@@ -111,14 +118,14 @@ Research Intern _(Mar 2021 - Sep 2021)_
    Natalie Shapira, Mosh Levy, Hossein Seyed Alavi, **Xuhui Zhou**, Yejin Choi, Yoav Goldberg, Maarten Sap, and Vered Shwartz  
    *EACL 2023*
 
-9. [Frames: Contextual Reasoning about Effects and Harms of Offensive Statements](https://cobra.xuhuiz.com/)  
+9. [Cobra frames: Contextual Reasoning about Effects and Harms of Offensive Statements](https://cobra.xuhuiz.com/)  
    **Xuhui Zhou**, Hao Zhu, Akhila Yerukola, Thomas Davidson, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap  
    *Findings of ACL 2023*
 
 8. [Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection](https://arxiv.org/abs/2111.07997)  
     Maarten Sap, Swabha Swayamdipta, Laura Vianna, **Xuhui Zhou**, Yejin Choi, Noah A. Smith  
     *NAACL 2022*
-
+   
 7. [Emergent Communication Fine-tuning (EC-FT) for Pretrained Language Models](https://openreview.net/pdf?id=SUqrM7WR7W5)  
     Shane Steinert-Threlkeld, **Xuhui Zhou**, Zeyu Liu, C. M. Downey  
     *ICLR EmeCom 2022, **<span style="color: #b8860b;">Runner-up Best Paper</span>***
