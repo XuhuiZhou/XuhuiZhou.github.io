@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Xuhui Zhou  
-_Last update: Oct 06, 2024_
+_Last update: Dec 04, 2024_
 
 ---
 
@@ -82,7 +82,7 @@ Research Intern _(Mar 2021 - Sep 2021)_
    Shayne Longpre, Robert Mahari, Ariel Lee, ..., **Xuhui Zhou**, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland  
    *NeurIPS Datasets and Benchmarks 2024*
 
-18. [PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](https://arxiv.org/abs/2405.09373)
+18. [PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](https://arxiv.org/abs/2405.09373)  
    Devansh Jain, Priyanshu Kumar, Samuel Gehman, **Xuhui Zhou**, Thomas Hartvigsen, Maarten Sap  
    *COLM 2024*
 
