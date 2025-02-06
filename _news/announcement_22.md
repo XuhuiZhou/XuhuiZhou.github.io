@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-04 07:59:00-0400
+date: 2025-02-06 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Hi there! I'm excited to find a summer 2025 **internship** and would love to hear from you if you think I could be a great match for your team. Feel free to drop me a message on X (nlpxuhui) or send an email to xuhuiz@cs.cmu.edu. Looking forward to connecting!
+Hi there! Excited to share that I'm joining the [**All Hands AI**](https://www.all-hands.dev/) team for my summer 2025 internship. Here's a post about what I will potentially work on and why I am excited about it (https://x.com/nlpxuhui/status/1887537741405298846)
