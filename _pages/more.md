@@ -82,13 +82,23 @@ at Singapore University of Technology and Design and Westlake University working
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/wenkai-li-aab4b5272/">Wenkai Li</a></td>
-      <td>2024 Summer - now</td>
+      <td>2024 Summer - 2025 Spring</td>
       <td>MIIS@CMU</td>
     </tr>
     <tr>
       <td><a href="https://jiarui-liu.github.io/">Jiarui Liu</a></td>
       <td>2024 Summer - now</td>
       <td>MIIS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/sanidhya-vijay/">Sanidhya Vijayvargiya</a></td>
+      <td>2024 Fall - now</td>
+      <td>MS CS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/adityasoni17/">Aditya Soni</a></td>
+      <td>2025 Spring - now</td>
+      <td>MS CS@CMU</td>
     </tr>
   </tbody>
 </table>
