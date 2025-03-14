@@ -178,6 +178,9 @@ Research Intern _(Mar 2021 - Sep 2021)_
 
 
 ## Invited Talks
+Ethics and Safety in LLMs
+- [Data Bias and Fairness Series](https://www.linkedin.com/posts/ks-data_data-bias-speaker-poster-activity-7304910161058414594-KAJj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8kypYBa_AFThzh3Ra721yDXWxLXPG-y7c), University of Kansas, Lawrence, KS, Mar 2025
+
 - Towards Socially Aware and Safe AI Agents
   - [USC Artificial Intelligence Seminar](https://www.isi.edu/ai/events/), Los Angeles, CA, Jan 2025
   - [MIT-PRG](https://www.media.mit.edu/groups/personal-robots/people/), New York, NY, Nov 2024
