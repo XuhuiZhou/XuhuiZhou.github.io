@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Xuhui Zhou  
-_Last update: Dec 04, 2024_
+_Last update: March 27, 2025_
 
 ---
 
@@ -24,7 +24,7 @@ _Last update: Dec 04, 2024_
 
 ## Research
 
-Socially intelligent AI agents. Specifically, I am interested in facilitating pro-social agents that interact cooperatively, align with human values, and contribute positively to individual and societal well-being.
+Socially intelligent AI agents. Specifically, I am interested in facilitating pro-social agents that interact cooperatively and safely, align with human values, and contribute positively to individual and societal well-being.
 
 ---
 
@@ -57,27 +57,47 @@ Research Intern _(Mar 2021 - Sep 2021)_
 ---
 ## Recent Preprints
 (*Equal contribution)
-6. [Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications](https://arxiv.org/abs/2409.16429)   
+6. [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)  
+   Frank F. Xu, Yufan Song, Boxuan Li, Yuxuan Tang, Kritanjali Jain, Mengxue Bao, Zora Z. Wang, **Xuhui Zhou**, Zhitong Guo, Murong Cao, Mingyang Yang, Hao Yang Lu, Amaad Martin, Zhe Su, Leander Maben, Raj Mehta, Wayne Chi, Lawrence Jang, Yiqing Xie, Shuyan Zhou, Graham Neubig  
+
+5. [Interactive Agents to Overcome Ambiguity in Software Engineering](https://arxiv.org/abs/2502.13069)  
+   Sanidhya Vijayvargiya, **Xuhui Zhou***, Akhila Yerukola*, Maarten Sap, Graham Neubig
+
+4. [Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications](https://arxiv.org/abs/2409.16429)   
    Xianzhe Fan, Qing Xiao, **Xuhui Zhou**, Yuran Su, Zhicong Lu, Maarten Sap, Hong Shen
 
-5. [BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data](https://arxiv.org/abs/2409.16428)  
+3. [BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data](https://arxiv.org/abs/2409.16428)  
    Wenkai Li, Jiarui Liu, Andy Liu, **Xuhui Zhou**, Mona Diab, Maarten Sap
 
-4. [HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions](https://arxiv.org/abs/2409.16427)  
+2. [HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions](https://arxiv.org/abs/2409.16427)  
    **Xuhui Zhou**, Hyunwoo Kim<sup>*</sup>, Faeze Brahman<sup>*</sup>, Liwei Jiang, Hao Zhu, Ximing Lu, Frank Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras, Maarten Sap  
    [<span style="color: blue; font-weight: bold; font-style: italic;">Website</span>](https://haicosystem.org/)
-
-3. [AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents](https://arxiv.org/abs/2409.09013)  
-   Zhe Su, **Xuhui Zhou**, Sanketh Rangreji, Anubha Kabra, Julia Mendelsohn, Faeze Brahman, Maarten Sap  
-
-2. [User-Driven Value Alignment: Understanding Users’ Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions](https://arxiv.org/abs/2409.00862)  
-   Xianzhe Fan, Qing Xiao, **Xuhui Zhou**, Jiaxin Pei, Maarten Sap, Zhicong Lu, Hong Shen  
 
 1. [On the Resilience of Multi-Agent Systems with Malicious Agents](https://arxiv.org/abs/2408.00989)  
    Jen-tse Huang, Jiaxu Zhou, Tailin Jin, **Xuhui Zhou**, Zixi Chen, Wenxuan Wang, Youliang Yuan, Maarten Sap, Michael R. Lyu  
 
 ## Publications  
 (*Equal contribution)
+24. [Bridging the Data Provenance Gap Across Text, Speech and Video](https://arxiv.org/abs/2412.17847)  
+   Shayne Longpre, Nikhil Singh, Manuel Cherep, Kushagra Tiwary, Joanna Materzynska, William Brannon, Robert Mahari, Naana Obeng-Marnu, Manan Dey, Mohammed Hamdy, Nayan Saxena,..., Vivek Sharma, **Xuhui Zhou**, Caiming Xiong, Luis Villa, Stella Biderman, Alex Pentland, Sara Hooker, Jad Kabbara  
+   *ICLR 2025*
+
+23. [AutoPresent: Designing Structured Visuals from Scratch](https://arxiv.org/abs/2501.00912)  
+   Jiaxin Ge, Zora Zhiruo Wang, **Xuhui Zhou**, Yi-Hao Peng, Sanjay Subramanian, Qinyue Tan, Maarten Sap, Alane Suhr, Daniel Fried, Graham Neubig, Trevor Darrell  
+   *CVPR 2025*
+
+22. [User-Driven Value Alignment: Understanding Users’ Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions](https://arxiv.org/abs/2409.00862)  
+   Xianzhe Fan, Qing Xiao, **Xuhui Zhou**, Jiaxin Pei, Maarten Sap, Zhicong Lu, Hong Shen  
+   *CHI 2025*
+
+21. [SOTOPIA-S4: A User-Friendly System for Flexible, Customizable, and Large-Scale Social Simulation](https://maartensap.com/pdfs/zhou2025sotopiaS4.pdf)  
+   **Xuhui Zhou**, Zhe Su, Sophie Feng, Jiaxu Zhou, Jen-tse Huang, Svitlana Volkova, Tongshuang Sherry Wu, Anita Woolley, Hao Zhu, Maarten Sap  
+   *NAACL System Demonstrations 2025*, [<span style="color: blue; font-weight: bold; font-style: italic;">Website</span>](https://sotopia.world/)
+
+20. [AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents](https://arxiv.org/abs/2409.09013)  
+   Zhe Su, **Xuhui Zhou**, Sanketh Rangreji, Anubha Kabra, Julia Mendelsohn, Faeze Brahman, Maarten Sap  
+   *NAACL 2025*
+
 19. [Consent in crisis: The rapid decline of the ai data commons](https://arxiv.org/abs/2407.14933)  
    Shayne Longpre, Robert Mahari, Ariel Lee, ..., **Xuhui Zhou**, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland  
    *NeurIPS Datasets and Benchmarks 2024*
