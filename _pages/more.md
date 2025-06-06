@@ -100,6 +100,11 @@ at Singapore University of Technology and Design and Westlake University working
       <td>2025 Spring - now</td>
       <td>MS CS@CMU</td>
     </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/keyu-he-569547198/">Keyu He</a></td>
+      <td>2025 Summer - now</td>
+      <td>MIIS@CMU</td>
+    </tr>
   </tbody>
 </table>
 
