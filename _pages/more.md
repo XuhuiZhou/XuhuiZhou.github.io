@@ -36,64 +36,9 @@ at Singapore University of Technology and Design and Westlake University working
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leo-liuzy.github.io/">Leo Zeyu Liu</a></td>
-      <td>2020 Fall - 2022 Fall</td>
-      <td>Ph.D. student in the University of Texas at Austin</td>
-    </tr>
-    <tr>
-      <td><a href="https://zhilin123.github.io/">Zhilin Wang</a></td>
-      <td>2021 Spring - 2021 Fall</td>
-      <td>Senior Applied Scientist, NVIDIA</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.athiyadeviyani.com/">Athiya Deviyani</a></td>
-      <td>2022 Fall - 2023 Spring</td>
-      <td>PhD student at CMU LTI</td>
-    </tr>
-     <tr>
-      <td><a href="https://sites.google.com/view/anubha-kabra/home">Anubha Kabra</a></td>
-      <td>2023 Fall - 2024 Spring</td>
-      <td>Senior Machine Learning Reserach Engineer at Bloomberg</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/sanketh-rangreji/">Sanketh Rangreji</a></td>
-      <td>2023 Fall - 2024 Spring</td>
-      <td>Data Scientist at Walmart</td>
-    </tr>
-    <tr>
-      <td><a href="https://devanshrj.github.io/">Devansh Jain</a></td>
-      <td>2023 Fall - now</td>
-      <td>CMU LTI (MIIS)</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/kpriyanshu256/?originalSubdomain=in">Priyanshu Kumar</a></td>
-      <td>2023 Fall - now</td>
-      <td>CMU LTI (MIIS)</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/zhe-su-b134b823a/?locale=en_US">Zhe Su</a></td>
-      <td>2023 Fall - now</td>
-      <td>CMU MLD (MSML)</td>
-    </tr>
-    <tr>
-      <td><a href="https://scholar.google.com/citations?user=aNnPnfcAAAAJ&hl=zh-CN">Xianzhe Fan</a></td>
-      <td>2024 Summer - now</td>
-      <td>Tsinghua University (Undergrad)</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/wenkai-li-aab4b5272/">Wenkai Li</a></td>
-      <td>2024 Summer - 2025 Spring</td>
+      <td><a href="https://www.linkedin.com/in/keyu-he-569547198/">Keyu He</a></td>
+      <td>2025 Summer - now</td>
       <td>MIIS@CMU</td>
-    </tr>
-    <tr>
-      <td><a href="https://jiarui-liu.github.io/">Jiarui Liu</a></td>
-      <td>2024 Summer - now</td>
-      <td>MIIS@CMU</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/sanidhya-vijay/">Sanidhya Vijayvargiya</a></td>
-      <td>2024 Fall - now</td>
-      <td>MS CS@CMU</td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/adityasoni17/">Aditya Soni</a></td>
@@ -101,9 +46,64 @@ at Singapore University of Technology and Design and Westlake University working
       <td>MS CS@CMU</td>
     </tr>
     <tr>
-      <td><a href="https://www.linkedin.com/in/keyu-he-569547198/">Keyu He</a></td>
-      <td>2025 Summer - now</td>
+      <td><a href="https://www.linkedin.com/in/sanidhya-vijay/">Sanidhya Vijayvargiya</a></td>
+      <td>2024 Fall - now</td>
+      <td>MS CS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://jiarui-liu.github.io/">Jiarui Liu</a></td>
+      <td>2024 Summer - now</td>
       <td>MIIS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/wenkai-li-aab4b5272/">Wenkai Li</a></td>
+      <td>2024 Summer - 2025 Spring</td>
+      <td>MIIS@CMU</td>
+    </tr>
+    <tr>
+      <td><a href="https://scholar.google.com/citations?user=aNnPnfcAAAAJ&hl=zh-CN">Xianzhe Fan</a></td>
+      <td>2024 Summer - now</td>
+      <td>Tsinghua University (Undergrad)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/zhe-su-b134b823a/?locale=en_US">Zhe Su</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU MLD (MSML)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/kpriyanshu256/?originalSubdomain=in">Priyanshu Kumar</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://devanshrj.github.io/">Devansh Jain</a></td>
+      <td>2023 Fall - now</td>
+      <td>CMU LTI (MIIS)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/sanketh-rangreji/">Sanketh Rangreji</a></td>
+      <td>2023 Fall - 2024 Spring</td>
+      <td>Data Scientist at Walmart</td>
+    </tr>
+    <tr>
+      <td><a href="https://sites.google.com/view/anubha-kabra/home">Anubha Kabra</a></td>
+      <td>2023 Fall - 2024 Spring</td>
+      <td>Senior Machine Learning Reserach Engineer at Bloomberg</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.athiyadeviyani.com/">Athiya Deviyani</a></td>
+      <td>2022 Fall - 2023 Spring</td>
+      <td>PhD student at CMU LTI</td>
+    </tr>
+    <tr>
+      <td><a href="https://zhilin123.github.io/">Zhilin Wang</a></td>
+      <td>2021 Spring - 2021 Fall</td>
+      <td>Senior Applied Scientist, NVIDIA</td>
+    </tr>
+    <tr>
+      <td><a href="https://leo-liuzy.github.io/">Leo Zeyu Liu</a></td>
+      <td>2020 Fall - 2022 Fall</td>
+      <td>Ph.D. student in the University of Texas at Austin</td>
     </tr>
   </tbody>
 </table>
