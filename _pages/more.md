@@ -77,7 +77,7 @@ at Singapore University of Technology and Design and Westlake University working
     </tr>
     <tr>
       <td><a href="https://devanshrj.github.io/">Devansh Jain</a></td>
-      <td>2023 Fall - now</td>
+      <td>2023 Fall - 2025 Spring</td>
       <td>CMU LTI (MIIS)</td>
     </tr>
     <tr>
