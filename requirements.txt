@@ -1,0 +1,12 @@
+jupyter
+nbconvert
+jekyll
+jekyll-email-protect
+jekyll-feed
+jekyll-github-metadata
+jekyll-paginate-v2
+jekyll-scholar
+jekyll-sitemap
+jekyll-twitter-plugin
+unicode_slugify
+webrick
