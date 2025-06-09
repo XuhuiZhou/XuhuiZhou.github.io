@@ -110,9 +110,16 @@ export JEKYLL_ENV=production
 
 # Build site
 echo "Starting Jekyll build..."
+echo "Ruby version: $(ruby -v)"
+echo "Bundler version: $(bundle -v)"
+echo "Jekyll version: $(bundle exec jekyll -v)"
 bundle exec jekyll build --lsi || {
   echo "Jekyll build failed!"
-  exit 1
+  echo "Attempting to build with trace for debugging..."
+  bundle exec jekyll build --lsi --trace || {
+    echo "Jekyll build with trace also failed!"
+    exit 1
+  }
 }
 
 # Delete and move files
