@@ -19,6 +19,17 @@ jobs:
       with:
         fetch-depth: 0
     
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0.2'
+    
+    - name: Install basic dependencies
+      run: |
+        gem install bundler
+        bundle config set --local path 'vendor/bundle'
+        bundle install --jobs 4 --retry 3 || echo "Bundle install failed, but continuing anyway"
+    
     - name: Setup deploy options
       id: setup
       run: |
