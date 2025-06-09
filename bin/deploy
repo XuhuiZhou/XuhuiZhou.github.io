@@ -100,7 +100,7 @@ fi
 
 # Checkout DEPLOY_BRANCH branch
 echo "Checking for existing deploy branch: $DEPLOY_BRANCH"
-if git branch | grep -q "$DEPLOY_BRANCH"; then
+if git show-ref --verify --quiet refs/heads/$DEPLOY_BRANCH; then
   echo "Found existing deploy branch, deleting it"
   git branch -D $DEPLOY_BRANCH
 else
