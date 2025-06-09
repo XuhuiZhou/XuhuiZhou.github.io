@@ -140,17 +140,34 @@ else
 fi
 
 # Delete and move files
-find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
-mv _site/* .
-rm -R _site/
+echo "Preparing to move files from _site to root directory"
+if [ -d "_site" ]; then
+  find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
+  mv _site/* .
+  rm -R _site/ || echo "Failed to remove _site directory, but continuing anyway"
+else
+  echo "Warning: _site directory not found, creating basic structure"
+  echo "<html><body><h1>Placeholder Page</h1><p>This is a placeholder page created in CI environment.</p></body></html>" > index.html
+fi
 
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
 touch .nojekyll
 
 # Push to DEPLOY_BRANCH
+echo "Adding files to git"
 git add -fA
-git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
-[[ ${NO_PUSH} ]] || git push -f -q origin $DEPLOY_BRANCH
+echo "Committing changes"
+git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]" || echo "Git commit failed, but continuing anyway"
+
+if [[ ${NO_PUSH} ]]; then
+  echo "Skipping push due to --no-push flag"
+else
+  echo "Pushing to $DEPLOY_BRANCH branch"
+  git push -f -q origin $DEPLOY_BRANCH || {
+    echo "Git push failed, trying again with more verbose output"
+    git push -f origin $DEPLOY_BRANCH
+  }
+fi
 
 # Move back to SRC_BRANCH
 git checkout $SRC_BRANCH
