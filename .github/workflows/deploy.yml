@@ -20,11 +20,11 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
-    - name: Install additional dependencies
+        bundler-cache: false
+    - name: Install dependencies
       run: |
-        gem update --system
         gem install bundler
+        bundle install
     - name: Install deps
       run: |
         npm install -g mermaid.cli

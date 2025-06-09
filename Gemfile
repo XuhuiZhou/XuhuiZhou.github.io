@@ -25,8 +25,3 @@ end
 
 # Specify compatible versions for Ruby 3.0.2
 gem 'webrick', '~> 1.7'
-gem 'nokogiri', '~> 1.13.10'
-gem 'racc', '~> 1.6.2'
-gem 'addressable', '~> 2.8.4'
-gem 'public_suffix', '~> 5.0.1'
-gem 'rexml', '~> 3.2.5'
