@@ -22,3 +22,6 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+# Specify compatible versions for Ruby 3.0.2
+gem 'uri', '~> 0.10.1' # Match the version that comes with Ruby 3.0.2
