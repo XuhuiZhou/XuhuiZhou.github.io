@@ -37,7 +37,10 @@ jobs:
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Deploy website 
-      run:  bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
+      run: |
+        echo "Using source branch: ${{ steps.setup.outputs.SRC_BRANCH }}"
+        echo "Using deploy branch: ${{ steps.setup.outputs.DEPLOY_BRANCH }}"
+        bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
+                    --src ${{ steps.setup.outputs.SRC_BRANCH }} \
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} \
                     --ci

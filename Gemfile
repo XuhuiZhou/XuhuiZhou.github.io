@@ -25,3 +25,6 @@ end
 
 # Specify compatible versions for Ruby 3.0.2
 gem 'uri', '~> 0.10.1' # Match the version that comes with Ruby 3.0.2
+gem 'webrick', '~> 1.7'
+gem 'nokogiri', '~> 1.13.0'
+gem 'racc', '~> 1.6.0'
