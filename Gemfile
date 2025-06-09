@@ -16,9 +16,12 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
-    gem 'webrick'
 end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+# Specify compatible versions for Ruby 3.0.2
+gem 'webrick', '~> 1.7'
+gem 'uri', '~> 0.12.1'
