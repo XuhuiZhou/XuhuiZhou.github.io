@@ -67,12 +67,12 @@ at Singapore University of Technology and Design and Westlake University working
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/zhe-su-b134b823a/?locale=en_US">Zhe Su</a></td>
-      <td>2023 Fall - now</td>
+      <td>2023 Fall - 2025 Spring</td>
       <td>CMU MLD (MSML)</td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/kpriyanshu256/?originalSubdomain=in">Priyanshu Kumar</a></td>
-      <td>2023 Fall - now</td>
+      <td>2023 Fall - 2025 Spring</td>
       <td>CMU LTI (MIIS)</td>
     </tr>
     <tr>
