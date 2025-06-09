@@ -99,10 +99,14 @@ else
 fi
 
 # Checkout DEPLOY_BRANCH branch
-if [ `git branch | grep $DEPLOY_BRANCH | tr ' ' '\n' | tail -1` ]
-then
+echo "Checking for existing deploy branch: $DEPLOY_BRANCH"
+if git branch | grep -q "$DEPLOY_BRANCH"; then
+  echo "Found existing deploy branch, deleting it"
   git branch -D $DEPLOY_BRANCH
+else
+  echo "No existing deploy branch found"
 fi
+echo "Creating new deploy branch"
 git checkout -b $DEPLOY_BRANCH
 
 # Export JEKYLL_ENV=production
@@ -113,14 +117,36 @@ echo "Starting Jekyll build..."
 echo "Ruby version: $(ruby -v)"
 echo "Bundler version: $(bundle -v)"
 echo "Jekyll version: $(bundle exec jekyll -v)"
-bundle exec jekyll build --lsi || {
-  echo "Jekyll build failed!"
-  echo "Attempting to build with trace for debugging..."
+echo "Gem environment:"
+gem env
+echo "Bundle environment:"
+bundle env
+
+# Try to build with different options if needed
+if [[ "$CI_ENV" == true || -n "$GITHUB_ACTIONS" ]]; then
+  echo "Running in CI environment, using extended build options"
   bundle exec jekyll build --lsi --trace || {
-    echo "Jekyll build with trace also failed!"
-    exit 1
+    echo "Jekyll build with trace failed!"
+    echo "Attempting to build with safe mode..."
+    bundle exec jekyll build --lsi --safe || {
+      echo "Jekyll build with safe mode also failed!"
+      echo "Attempting one last build with minimal options..."
+      bundle exec jekyll build || {
+        echo "All Jekyll build attempts failed!"
+        exit 1
+      }
+    }
   }
-}
+else
+  bundle exec jekyll build --lsi || {
+    echo "Jekyll build failed!"
+    echo "Attempting to build with trace for debugging..."
+    bundle exec jekyll build --lsi --trace || {
+      echo "Jekyll build with trace also failed!"
+      exit 1
+    }
+  }
+fi
 
 # Delete and move files
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
